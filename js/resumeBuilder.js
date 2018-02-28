@@ -219,7 +219,15 @@ function educationSchool(){
 		$(".education-entry").append(formattedMajor);
 	}
 
-	for (educationtime in education.onlineCourses){
+	
+
+}
+
+educationSchool();
+
+
+
+for (educationtime in education.onlineCourses){
 		$("#education").append(HTMLonlineClasses);
 
 		var formattedonlineTitle = HTMLonlineTitle.replace("%data%", education.onlineCourses[educationtime].title);
@@ -228,10 +236,6 @@ function educationSchool(){
 
 
 	}
-
-}
-
-educationSchool();
 
 
 
