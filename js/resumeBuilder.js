@@ -8,7 +8,7 @@ This is empty on purpose! Your code to build the resume will go here.
  		"mobile": "979-951-7497",
  		"email": "sanjaykai.1994@gmail.com",
  		"github": "kaisanjay",
- 		"location": "india"
+ 		"location": "Rajasthan"
  	},
  	"welcomeMessage": "hey hello how u doing?",
  	"skills": ["Python", "HTML", "CSS", "JavaScript"],
